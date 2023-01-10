@@ -38,7 +38,7 @@ export default function App() {
           <View style={styles.faces} key={index}>
             <Text style={styles.faceDesc}> Lebza's Eyes are Shut: {eyesShut.toString()}</Text>
             <Text style={styles.faceDesc}> Lebza is Winking: {winking.toString()}</Text>
-            <Text style={styles.faceDesc}> Lebza is Smiling: {smiling.toString()}</Text>
+            <Text style={styles.faceDesc}> Lebz is Smiling: {smiling.toString()}</Text>
           </View>
 
         );
